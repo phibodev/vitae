@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Deploy on Skynet
 
-Build the app for production: 
+Build the app for production:
 
 ```bash
 yarn build
